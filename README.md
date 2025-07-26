@@ -116,7 +116,7 @@ string serveraddr = "127.0.0.1";    // Change IP (client only)
 ## 👨‍💻 Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@prarthana-145](https://github.com/prarthana-145)
 
 ---
 
