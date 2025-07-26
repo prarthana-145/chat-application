@@ -3,7 +3,6 @@
 A real-time multi-client chat application built in **C++** using **Windows Sockets (Winsock)** that allows multiple users to connect to a central server and communicate with each other simultaneously.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🚀 Features
 
@@ -25,16 +24,6 @@ A real-time multi-client chat application built in **C++** using **Windows Socke
 - **Server**: Accepts multiple connections, broadcasts messages between clients
 - **Client**: Dual-threaded (sender/receiver) for simultaneous send/receive operations
 
-## 📸 Screenshots
-
-### Server Console
-![Server](server.jpg)
-
-### Client 1
-![Client 1](client1.jpg) 
-
-### Client 2
-![Client 2](client2.jpg)
 
 ## ⚡ How to Run
 
